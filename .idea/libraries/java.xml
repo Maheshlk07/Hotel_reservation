@@ -1,0 +1,73 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.base" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.compiler" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.datatransfer" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.desktop" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.instrument" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.logging" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.management" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.management.rmi" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.naming" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.net.http" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.prefs" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.rmi" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.scripting" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.security.jgss" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.security.sasl" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.smartcardio" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.sql" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.sql.rowset" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.transaction.xa" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.xml" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/java.xml.crypto" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.accessibility" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.attach" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.charsets" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.compiler" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.crypto.cryptoki" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.crypto.mscapi" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.dynalink" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.editpad" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.hotspot.agent" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.httpserver" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.incubator.vector" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.internal.ed" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.internal.jvmstat" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.internal.le" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.internal.md" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.internal.opt" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.internal.vm.ci" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.jartool" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.javadoc" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.jcmd" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.jconsole" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.jdeps" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.jdi" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.jfr" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.jlink" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.jpackage" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.jshell" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.jsobject" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.jstatd" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.localedata" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.management" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.management.agent" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.management.jfr" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.naming.dns" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.naming.rmi" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.net" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.nio.mapmode" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.sctp" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.security.auth" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.security.jgss" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.unsupported" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.unsupported.desktop" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.xml.dom" />
+      <root url="jar://D:/Program Files/Java/jdk-23/lib/src.zip!/jdk.zipfs" />
+    </SOURCES>
+  </library>
+</component>
